@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliciceronis02rockgoog_0050.png"; bbox 0 0 717 1073; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 213 436 471 458">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 213 436 471 458">
+     <span class='ocr_line' id='line_1_1' title="bbox 213 436 471 458; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 213 440 237 457; x_wconf 81' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 253 438 327 458; x_wconf 77' lang='lat' dir='ltr'>TULLI</span> <span class='ocrx_word' id='word_1_3' title='bbox 345 436 471 458; x_wconf 67' lang='lat' dir='ltr'><strong>omme-&gt;ms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 75 483 607 554">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 75 483 607 554">
+     <span class='ocr_line' id='line_1_2' title="bbox 75 483 607 509; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 75 483 151 509; x_wconf 67' lang='lat' dir='ltr'><strong>CATU</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 171 487 264 509; x_wconf 84' lang='lat' dir='ltr'>MAIOR</span> <span class='ocrx_word' id='word_1_6' title='bbox 284 483 322 508; x_wconf 61' lang='lat' dir='ltr'><strong>D-If}</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 343 484 503 509; x_wconf 69' lang='lat' dir='ltr'>SENECTUTE</span> <span class='ocrx_word' id='word_1_8' title='bbox 523 488 607 508; x_wconf 80' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 159 533 525 554; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 159 537 193 553; x_wconf 77' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_10' title='bbox 208 537 229 554; x_wconf 83' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_11' title='bbox 245 533 393 554; x_wconf 66' lang='lat' dir='ltr'>POMPGNIUM</span> <span class='ocrx_word' id='word_1_12' title='bbox 409 536 525 554; x_wconf 77' lang='lat' dir='ltr'>ATTICUM.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
